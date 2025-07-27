@@ -90,7 +90,7 @@ Palette::Palette(
     }
     paletteSize = colors.size();
   }
-
+}
 Palette::~Palette()
 {
     colors.clear();
